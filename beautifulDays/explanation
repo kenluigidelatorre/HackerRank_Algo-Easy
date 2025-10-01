@@ -1,0 +1,5 @@
+This program figures out how many days between i and j are “beautiful.” 
+A day is called beautiful if, when you reverse its digits and find the 
+difference from the original day, that difference can be divided evenly 
+by k. For example, if the day is 120, its reverse is 21, and the difference 
+is 99. If 99 divides evenly by k, then that day is counted as beautiful.
