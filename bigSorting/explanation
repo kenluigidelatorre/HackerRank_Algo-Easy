@@ -1,0 +1,5 @@
+This program sorts a list of very large numbers that are too big for normal 
+integer types. Since the numbers are given as strings, it first compares 
+them by length: shorter numbers come first because they are smaller. If 
+two numbers have the same length, it compares them digits by digits like 
+normal strings. This way, even extremely large numbers can be sorted correctly.
