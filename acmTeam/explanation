@@ -1,0 +1,4 @@
+This program finds out which team of two people knows the most topics. Each person has a string of 1s and 0s, 
+where 1 means they know a topic and 0 means they don’t. The program checks every pair of people, adds up the 
+topics they know together, and keeps track of the highest number found. It also counts how many teams reach 
+that highest number. In the end, it shows the maximum topics a team can know and how many teams got that result.
