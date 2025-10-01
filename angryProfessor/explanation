@@ -1,0 +1,6 @@
+This program decides if a class gets canceled depending on when students arrive. 
+Each student has an arrival time: 0 or less means they are on time, and a positive 
+number means they are late. The teacher needs at least k students to be on time for 
+the class to happen. The program counts the students who are on time. If that number 
+is at least k, the class goes on and it prints "NO". If not enough students are on 
+time, the class is canceled and it prints "YES".
