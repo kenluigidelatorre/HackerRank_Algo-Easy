@@ -1,0 +1,6 @@
+This program checks if you can turn one string into another in exactly k steps, 
+where each step is either deleting the last character or adding a new one. It 
+first finds the common beginning of both strings, then counts how many deletions 
+and additions are needed. If the total steps match k, the answer is "Yes". If the 
+steps are fewer, it checks if the extra moves can still be used (like doing extra 
+delete-and-append or rebuilding the string). Otherwise, the answer is "No".
