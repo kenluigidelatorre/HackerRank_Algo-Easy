@@ -1,0 +1,5 @@
+This program solves the **Cavity Map** problem. It looks at a grid of numbers and 
+marks any cell that is bigger than all of its immediate neighbors (up, down, left, right) 
+with an 'X'. The cells on the edges are never marked because they don’t have neighbors 
+on all sides. The program reads the grid, checks each inner cell, replaces the “cavities” 
+explwith 'X', and then prints the updated grid.
