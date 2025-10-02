@@ -1,0 +1,3 @@
+This function counts how many pairs of numbers in a list add up to a number that’s divisible by a given number k. 
+It looks at every possible pair in the list, adds them together, and checks if the sum can be divided evenly by k. 
+If yes, it adds to the count. At the end, it tells you how many such pairs there are in total.
