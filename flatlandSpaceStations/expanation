@@ -1,0 +1,3 @@
+he function finds the city that’s farthest from any space station. It sorts the stations, checks the distance from the first city to 
+the first station and the last city to the last station, then looks between stations to find the largest gap. The biggest distance it 
+finds is the answer the farthest any city is from a station.
