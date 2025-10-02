@@ -1,0 +1,6 @@
+This program solves the **Cat and Mouse** problem. It figures out which cat will 
+reach the mouse first based on their starting positions on a number line. The 
+function calculates the distance each cat is from the mouse and returns "Cat A" 
+or "Cat B" depending on who’s closer. If both cats are the same distance away, it 
+returns "Mouse C" to show the mouse escapes. The program reads multiple test cases, 
+runs this check for each, and prints the results.
