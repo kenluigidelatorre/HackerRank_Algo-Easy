@@ -1,0 +1,7 @@
+This program solves the **Circular Array Rotation** problem. It rotates an 
+array to the right by `k` positions and then answers queries about the 
+values at specific positions after the rotation. Instead of rotating 
+the entire array, it calculates the original index of each queried 
+position before the rotation and returns the corresponding value. 
+The program reads the input, runs the rotation logic efficiently, 
+and prints the results for each query.
