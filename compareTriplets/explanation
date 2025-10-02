@@ -1,0 +1,4 @@
+This program solves the **Compare the Triplets** problem. It compares two lists of three scores each—one 
+for Alice and one for Bob. For each score position, it awards a point to whoever has the higher score. 
+At the end, it returns the total points Alice and Bob earned. The program reads the scores, compares 
+them, and prints the final scores side by side.
