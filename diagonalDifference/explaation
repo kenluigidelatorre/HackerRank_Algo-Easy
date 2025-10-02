@@ -1,0 +1,4 @@
+This function looks at a square grid of numbers and finds the difference between the two diagonals. It adds up all the 
+numbers going from the top-left corner to the bottom-right, and then does the same for the other diagonal—from top-right 
+to bottom-left. Finally, it gives you the positive difference between these two totals. It’s like comparing the two sides 
+of the grid to see how much they differ.
