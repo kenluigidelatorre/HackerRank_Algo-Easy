@@ -1,0 +1,3 @@
+The dayOfProgrammer function finds the 256th day of the year. For 1918, it’s September 26 because of a calendar change. 
+Before 1918, leap years were every 4 years, so the day is September 12. After 1918, leap years follow new rules, and in 
+leap years, it’s September 12; otherwise, September 13. This covers all years easily.
