@@ -1,0 +1,6 @@
+This program solves the Breaking the Records problem. It keeps track of how many 
+times a player breaks their highest and lowest score records during a season. It 
+looks at each game’s score, updates the records when a new high or low is reached, 
+and counts how many times that happens. At the end, it shows how many times the 
+player broke their best and worst scores. The program reads the scores, runs this 
+check, and prints the results.
