@@ -1,0 +1,2 @@
+This function flips all 32 bits of a given unsigned integer by subtracting it from the maximum 32-bit value 
+(2³² - 1). The result is the bitwise complement of the input within 32 bits.
