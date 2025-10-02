@@ -1,0 +1,3 @@
+This code simulates repeatedly cutting sticks until none remain. Each time, it cuts all sticks by the length 
+of the shortest stick, then removes the sticks that are fully cut (length zero). It records how many sticks 
+are left before each cut and returns this list of counts. The process continues until no sticks are left.
