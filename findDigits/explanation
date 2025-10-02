@@ -1,0 +1,3 @@
+This function counts how many digits in a number evenly divide the number itself. It checks each digit one by one, 
+skipping any zeroes (since you can’t divide by zero), and if the number is divisible by that digit, it increases 
+the count. Finally, it returns the total count of such digits.
