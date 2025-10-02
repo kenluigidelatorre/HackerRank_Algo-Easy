@@ -1,0 +1,6 @@
+This program solves the **Climbing the Leaderboard** problem. It first creates a unique, 
+sorted list of scores from the leaderboard, then checks each of the player’s scores to 
+find their rank. Starting from the bottom, it compares the player’s score against the 
+leaderboard scores and determines where the player fits in. Finally, it returns a list 
+of the player’s ranks after each game. The program reads the input, runs the ranking 
+logic, and prints the results.
