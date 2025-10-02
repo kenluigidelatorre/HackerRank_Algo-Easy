@@ -1,0 +1,4 @@
+This function tries to make every number in the list even by giving out loaves of bread in pairs. It goes through the list 
+and whenever it finds an odd number, it gives one loaf to that person and one loaf to the next person, so both become even. 
+It keeps track of how many loaves are given out this way. If, at the end, the last number is even, it returns the total loaves 
+given. If it’s impossible to make all numbers even, it returns “NO.”
