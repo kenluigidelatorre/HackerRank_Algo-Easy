@@ -1,0 +1,5 @@
+This C# program solves the **Birthday Cake Candles** problem. It finds the 
+tallest candle height from a list and counts how many candles have that height. 
+The `birthdayCakeCandles` function uses this logic to return the count. The `Main` 
+method handles reading the input (number of candles and their heights), calls the 
+function, and outputs the number of tallest candles that can be blown out.
