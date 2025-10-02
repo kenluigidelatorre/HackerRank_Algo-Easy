@@ -1,0 +1,4 @@
+This program solves the Birthday Chocolate problem. It counts how many groups of 
+consecutive numbers of length m in a list add up to d. The birthday function checks 
+every possible group, sums their values, and counts those that match d. The Main 
+method reads input, runs the function, and prints the result.
