@@ -1,0 +1,4 @@
+This program counts how many valleys a hiker walks through during a hike. A valley starts when the hiker goes 
+below sea level and ends when they come back up to sea level. The hike is represented by steps up ('U') and down ('D'). 
+The code keeps track of the hiker’s altitude and counts a valley each time they step up to sea level from below. Finally, 
+it returns the total number of valleys crossed.
