@@ -1,0 +1,6 @@
+This program solves the **Chocolate Feast** problem. It calculates how many chocolates 
+you can eat if you start with some money (`n`), each chocolate costs `c`, and you can 
+exchange a certain number of wrappers (`m`) for a free chocolate. The function first 
+buys as many chocolates as possible, then keeps trading wrappers for free chocolates 
+until it can’t trade anymore. The program reads multiple test cases, runs the calculation 
+for each, and prints the total chocolates eaten.
