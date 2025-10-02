@@ -1,0 +1,4 @@
+The designerPdfViewer function calculates the highlighted area for a word in a PDF viewer where each letter has a 
+different height. It looks at each letter in the word, finds its height from the given list, and keeps track of 
+the tallest letter. Then, it multiplies the tallest height by the length of the word to get the total area highlighted. 
+This way, it finds how much space the word will take when highlighted.
