@@ -1,0 +1,4 @@
+It looks at the list of numbers and counts how many times each number appears. Then it finds the number that shows up the most. 
+To make all the numbers in the list the same, you’d need to change all the other numbers into that most common number. The function 
+tells you how many changes you’d have to make to do that — basically, the total number of elements minus how many times the most 
+frequent number appears.
