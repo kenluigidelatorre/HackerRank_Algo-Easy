@@ -1,0 +1,5 @@
+This program adds up a list of really big numbers. It reads how many numbers there are, 
+then reads the numbers themselves, and adds them all together using the aVeryBigSum 
+function. The main part of the program takes care of getting the input ready by removing 
+extra spaces and splitting the numbers properly. In the end, it prints out the total sum. 
+It’s useful when you need to handle numbers too big for regular integer types.
