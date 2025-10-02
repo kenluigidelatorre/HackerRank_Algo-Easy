@@ -1,0 +1,5 @@
+This program helps figure out if Anna was charged the right amount for a shared meal. 
+It adds up the bill without the item Anna didn’t eat, splits the cost fairly, and then 
+checks if what she paid matches her share. If it does, it says “Bon Appetit”; if not, 
+it shows how much she was overcharged. The program reads the bill details, runs the check, 
+and prints the result.
