@@ -1,0 +1,3 @@
+This program calculates how many games you can buy given a starting price, a discount that decreases the price after each purchase, 
+a minimum price limit, and a total budget. It keeps buying games while you can afford the current price, applying the discount but 
+never going below the minimum price, then returns the total number of games bought.
