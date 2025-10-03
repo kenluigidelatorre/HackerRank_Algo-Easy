@@ -1,0 +1,4 @@
+The camelcase function determines how many words are in a camelCase string by starting with a count of 1, 
+assuming the first word begins with a lowercase letter. It then iterates through each character of the string, 
+incrementing the count whenever an uppercase letter is encountered, as each uppercase letter signifies the start 
+of a new word in camelCase notation.
