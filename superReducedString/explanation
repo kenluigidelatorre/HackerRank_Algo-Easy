@@ -1,0 +1,3 @@
+This program reduces a string by removing side-by-side matching letters using a stack. Each character is 
+checked: if it matches the top, the pair is removed; if not, it’s added. The final stack forms the 
+reduced string, or “Empty String” if nothing remains.
