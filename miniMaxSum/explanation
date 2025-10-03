@@ -1,0 +1,3 @@
+This program calculates the minimum and maximum sums of exactly four out of five integers in the list. It sums 
+all numbers, then subtracts the largest number to get the minimum sum, and subtracts the smallest number to get 
+the maximum sum. Finally, it prints both sums.
