@@ -1,0 +1,3 @@
+This program simulates how an ad goes viral over n days. Each day, the ad is shared with 5 people. Half of them 
+(rounded down) like it and each of those shares it with 3 new people the next day. The program tracks and returns 
+the total number of likes received over n days.
