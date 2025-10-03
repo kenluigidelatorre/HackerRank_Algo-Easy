@@ -1,0 +1,4 @@
+This program figures out how many times the letter 'a' shows up if you repeat a given string s over and over until 
+you reach n characters. Instead of repeating the string and counting every time, it smartly counts how many 'a's
+are in the original string, then calculates how many full repeats fit into n, and finally counts the 'a's in the 
+leftover part. This way, it works really fast even if n is huge.
