@@ -1,0 +1,3 @@
+This program reads two numbers from the user, adds them together, and then prints the result. The addition happens 
+inside the solveMeFirst function, which takes two numbers as input and returns their sum. The main part of the program 
+just handles reading the input and displaying the output.
