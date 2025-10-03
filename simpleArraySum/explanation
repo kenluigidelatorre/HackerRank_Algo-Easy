@@ -1,0 +1,3 @@
+This program calculates the sum of all integers in a list. It reads a list of numbers from the input, 
+then loops through each number to add them all together. Finally, it prints out the total sum. This is 
+a straightforward way to add up the values in an array.
