@@ -1,0 +1,4 @@
+This program counts how many pairs of socks can be made from a pile of socks represented by numbers. It takes the 
+total number of socks and a list of sock types as input. Then, it counts how many socks there are of each type. 
+For each type, it calculates how many pairs can be formed by dividing the count by two (ignoring any leftover 
+single socks). Finally, it adds up all the pairs from every type and returns the total number of pairs.
