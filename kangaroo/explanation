@@ -1,0 +1,4 @@
+This program checks if two kangaroos starting at different positions and jumping at different speeds 
+will land at the same spot after the same number of jumps. It returns "YES" if they can meet and "NO" 
+if they can’t. The logic accounts for equal speeds and ensures the meeting point occurs at a non-negative 
+number of jumps.
