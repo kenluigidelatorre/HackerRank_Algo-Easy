@@ -1,0 +1,4 @@
+This program calculates all possible values of a stone after making (n - 1) moves. Each move adds either a or b to 
+the stone's value. For every possible count of moves adding a (from 0 to n - 1), it computes the total value by 
+adding a that many times and b for the rest. It collects all unique results, sorts them, and returns the sorted 
+list of possible stone values.
