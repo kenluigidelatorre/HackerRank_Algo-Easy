@@ -1,0 +1,4 @@
+This program converts time from 12-hour AM/PM format to 24-hour (military) time. It reads the hour and checks 
+if it’s AM or PM. If it’s AM and the hour is 12, it changes the hour to 00. If it’s PM and the hour is less 
+than 12, it adds 12 to convert it. The rest of the time (minutes and seconds) stays the same, and the result 
+is printed in 24-hour format.
