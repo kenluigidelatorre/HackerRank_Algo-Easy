@@ -1,0 +1,3 @@
+This program counts the frequency of each bird type in the list. It then finds the bird type 
+that appears the most times. If there’s a tie, it returns the smallest bird type number among 
+those with the highest frequency.
