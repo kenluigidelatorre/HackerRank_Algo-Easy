@@ -1,0 +1,3 @@
+This program prints a staircase of height n using # symbols. For each line, it prints some spaces first, 
+then the # characters, so the staircase is right-aligned. The number of spaces decreases and the number 
+of # symbols increases with each line, creating a staircase shape.
