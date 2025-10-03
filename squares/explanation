@@ -1,0 +1,4 @@
+This program counts how many perfect squares exist between two numbers, a and b, inclusive. It calculates the smallest square 
+root greater than or equal to a and the largest square root less than or equal to b, then finds the difference between these 
+to get the count of squares in that range. If there are none, it returns zero. The main program reads multiple pairs of numbers 
+and outputs the count of perfect squares for each pair.
