@@ -1,0 +1,4 @@
+This program helps determine how many magic potion doses a runner needs to jump over the tallest hurdle. 
+Given the runner’s current jump height and a list of hurdle heights, it finds the tallest hurdle and 
+calculates how many extra units the runner must boost their jump to clear it. If the runner can already 
+jump over all hurdles, it returns zero.
