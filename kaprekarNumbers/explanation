@@ -1,0 +1,3 @@
+This program finds and prints all Kaprekar numbers within a given range. A Kaprekar number is a number whose 
+square can be split into two parts that add up to the original number. If no such numbers exist in the range, 
+it prints "INVALID RANGE".
