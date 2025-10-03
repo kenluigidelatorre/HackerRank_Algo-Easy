@@ -1,0 +1,3 @@
+This program takes a list of integers and calculates the fraction of numbers that are positive, negative, and zero. 
+It counts how many elements fall into each category, then prints the ratio of each to the total number of elements, 
+formatted to six decimal places. This helps understand the distribution of the values in the list.
