@@ -1,0 +1,5 @@
+This program helps Taum calculate the minimum cost to buy b black gifts and w white gifts. Each color 
+has its own cost (bc for black, wc for white), but Taum can also convert one color to the other at an 
+extra cost z. For each gift, the program decides whether to buy it directly or convert the other color. 
+It then adds up the total cost based on the cheaper option for each. This ensures Taum always gets the 
+best deal.
