@@ -1,0 +1,3 @@
+This program finds the longest subarray where the difference between any two elements is at most 1. It counts the 
+frequency of each number, then checks for each number the combined frequency of it and the next number. The maximum 
+of these sums is returned as the result.
