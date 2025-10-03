@@ -1,0 +1,4 @@
+This program calculates the library fine based on the actual and expected return dates of a book. If the book 
+is returned late in the same year and month, the fine is 15 units per day late. If it’s late in the same year 
+but a different month, the fine is 500 units per month late. If it’s returned after the expected year, the fine 
+is a fixed 10,000 units. If the book is returned on time or early, the fine is zero.
