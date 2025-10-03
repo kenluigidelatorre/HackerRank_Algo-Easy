@@ -1,0 +1,4 @@
+This program simulates a workbook where problems are split across pages. Each chapter has a certain number of problems,
+and each page can hold up to k problems. A special problem is one where the problem number matches the page number it's on.
+The program loops through each chapter and tracks the current page number. It counts how many special problems occur as the 
+chapters are filled into the workbook.
