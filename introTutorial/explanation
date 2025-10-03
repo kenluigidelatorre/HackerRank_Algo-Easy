@@ -1,0 +1,2 @@
+This program finds the position of a specific number in a list. It takes a value V and searches the list 
+for its first occurrence, returning the index where it’s found.
