@@ -1,0 +1,3 @@
+This program calculates the height of a tree that grows in a specific pattern: it doubles in height every spring 
+and grows by 1 meter every summer. Starting at 1 meter, for each growth cycle (n), the program alternates between 
+doubling the height and adding one. It then returns the final height after n cycles.
