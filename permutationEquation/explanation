@@ -1,0 +1,3 @@
+This program solves a permutation problem. For each number x from 1 to n, it finds the position y such that when you look up p[y] 
+and then p[p[y]], you get x. It uses a dictionary to quickly find the position of any value, then builds the result list by applying 
+this logic for all x. Finally, it prints the list of positions y.
