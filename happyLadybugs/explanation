@@ -1,0 +1,3 @@
+This program checks if ladybugs in a string can be arranged so that all identical ones are together, making them "happy." If there are 
+no empty spaces, it checks if they’re already grouped. If there are empty spaces, it ensures no ladybug appears just once (since singles 
+can’t be grouped). It returns "YES" if a happy arrangement is possible, otherwise "NO."
